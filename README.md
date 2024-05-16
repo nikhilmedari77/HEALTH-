@@ -6,7 +6,7 @@ Developed a user-friendly Django-based platform for streamlined hospital operati
 
 ## Functions
 ### Admin
-- Signup their account. Then Login (No approval Required).
+- Signup their account. Then Login (No approval Required). 
 - Can register/view/approve/reject/delete doctor (approve those doctor who applied for job in their hospital).
 - Can admit/view/approve/reject/discharge patient (discharge patient when treatment is done).
 - Can Generate/Download Invoice pdf (Generate Invoice according to medicine cost, room charge, doctor charge and other charge).
