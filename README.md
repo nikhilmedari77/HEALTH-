@@ -65,4 +65,4 @@ EMAIL_RECEIVING_USER = 'youremail@gmail.com'
 
 
 ## Feedback
-Any suggestion and feedback is welcome. You can message me on facebook
+Any suggestion and feedback is welcome.
