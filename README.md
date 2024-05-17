@@ -2,7 +2,7 @@
 Developed a user-friendly Django-based platform for streamlined hospital operations, including doctor management, patient admissions, appointment scheduling, invoice generation, and easy-to-use appointment booking tools for patients.
 
 # Hospital Management
-https://img.shields.io/badge/DevelopedBy-Nikhil%20Medari-red?link=https%3A%2F%2Fgithub.com%2Fnikhilmedari77
+[![Developed By: Nikhil Medari](https://img.shields.io/badge/DevelopedBy-Nikhil%20Medari-red?link=https%3A%2F%2Fgithub.com%2Fnikhilmedari77)
 
 ## Functions
 ### Admin
